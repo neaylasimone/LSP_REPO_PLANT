@@ -10,7 +10,7 @@ import java.util.Map;
  * Supports adding tasks, finding tasks by ID, and retrieving tasks by status.
  * Duplicate task IDs are not permitted.
  *
- * @author Your Name
+ * @author Neayla Jones
  */
 public class TaskManager {
 
